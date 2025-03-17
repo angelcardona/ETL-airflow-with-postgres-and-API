@@ -1,0 +1,10 @@
+apache-airflow==2.8.1
+
+# Providers sin fijar versión exacta, Airflow resolverá automáticamente
+apache-airflow-providers-postgres
+
+pandas
+requests
+SQLAlchemy
+psycopg2-binary
+python-dotenv
